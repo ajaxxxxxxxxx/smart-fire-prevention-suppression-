@@ -1,0 +1,6 @@
+tensorflow>=2.12
+opencv-python
+numpy
+paho-mqtt>=1.6
+matplotlib
+scikit-learn
